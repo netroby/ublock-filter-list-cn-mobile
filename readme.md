@@ -3,6 +3,8 @@
 
 This is ublock filter list for cn mobile website
 
+[Ublock origin](https://github.com/gorhill/uBlock) is ads filter extension for chrome or firefox.
+
 ## How to use
 
 1. open ublock setting , goto 3rd-party filters;
